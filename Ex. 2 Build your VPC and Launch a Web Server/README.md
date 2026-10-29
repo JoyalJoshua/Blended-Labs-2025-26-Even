@@ -2,9 +2,9 @@
 
 ## Author
 
- *Name*: Joyal Joshua J
- *Register Number*: 212225040162
- *Date of Submission*: 29/10/2026
+ <br>Name: Joyal Joshua J <br>
+ Register Number: 212225040162<br>
+ Date of Submission: 29/10/2026<br>
 
 ---
 
