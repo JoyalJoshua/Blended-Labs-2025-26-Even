@@ -94,6 +94,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** 212225040162
+**Name:** Joyal Joshua J (212225040162)
 **Course:** Introduction to Cloud Computing  
 
